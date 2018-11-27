@@ -1,0 +1,9 @@
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\bin\Debug\Boletin_experto.exe.config
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\bin\Debug\Boletin_experto.exe
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\bin\Debug\Boletin_experto.pdb
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.csprojResolveAssemblyReference.cache
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.Form1.resources
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.Properties.Resources.resources
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.csproj.GenerateResource.Cache
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.exe
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.pdb

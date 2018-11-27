@@ -26,8 +26,20 @@ namespace Boletin_experto
 
         private void boton_añadir_Click(object sender, EventArgs e)
         {
-            if (namePlayer_1.Equals(namePlayer_2) || namePlayer_1.Equals(namePlayer_3) || namePlayer_2.Equals(namePlayer_3)) {
-
+            if (!namePlayer_1.Text.Equals(namePlayer_2.Text) && (!namePlayer_1.Text.Equals(namePlayer_3.Text)) && (!label_nameplayer_2.Text.Equals(namePlayer_3.Text)))
+            {
+                if (namePlayer_1.Text != "admin" && namePlayer_2.Text != "admin" && namePlayer_3.Text != "admin")
+                {
+                    MessageBox.Show("Correcto");
+                }
+                else
+                {
+                    MessageBox.Show("Incorrecto");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Incorrecto");
             }
         }
     }

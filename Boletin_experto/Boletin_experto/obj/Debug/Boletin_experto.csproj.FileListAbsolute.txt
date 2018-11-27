@@ -7,3 +7,4 @@ C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_ex
 C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.csproj.GenerateResource.Cache
 C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.exe
 C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.pdb
+C:\Users\alchen\Documents\GitHub\Programacion_C#\Programacion_C_sharp\Boletin_experto\Boletin_experto\obj\Debug\Boletin_experto.Form2.resources

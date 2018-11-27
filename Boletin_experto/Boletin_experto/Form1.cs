@@ -24,13 +24,30 @@ namespace Boletin_experto
             namePlayer_3.Clear();
         }
 
-        private void boton_añadir_Click(object sender, EventArgs e)
-        {
+        public void boton_añadir_Click(object sender, EventArgs e)
+        { 
             if (!namePlayer_1.Text.Equals(namePlayer_2.Text) && (!namePlayer_1.Text.Equals(namePlayer_3.Text)) && (!label_nameplayer_2.Text.Equals(namePlayer_3.Text)))
             {
                 if (namePlayer_1.Text != "admin" && namePlayer_2.Text != "admin" && namePlayer_3.Text != "admin")
                 {
+                    int contador = 0;
+                    if (namePlayer_1.Text != "")
+                    {
+                        contador++;
+                    }
+                    if (namePlayer_2.Text != "")
+                    {
+                        contador++;
+                    }
+                    if (namePlayer_3.Text != "")
+                    {
+                        contador++;
+                    }
                     MessageBox.Show("Correcto");
+                    MessageBox.Show("Van a jugar: " + contador + " jugadores");
+                    Form2 ventana2 = new Form2();
+                    ventana2.Show();
+                    this.Hide();
                 }
                 else
                 {

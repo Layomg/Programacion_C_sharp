@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3D0A350D-E289-4AFC-8322-3D0325DCF01D}</ProjectGuid>
+    <ProjectGuid>{E5DAB7B8-71CC-46EC-BEA9-DD90B14FC007}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Boletin_experto_2</RootNamespace>
-    <AssemblyName>Boletin_experto_2</AssemblyName>
+    <RootNamespace>Examen_3</RootNamespace>
+    <AssemblyName>Examen_3</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -12,7 +12,10 @@ namespace Ejercicio4
         string nombre, apellidos;
         int edad;
 
-        
+        public Persona()
+        {
+
+        }
         public Persona(string nombre, string apellidos, int edad)
         {
             this.nombre = nombre;
@@ -43,6 +46,18 @@ namespace Ejercicio4
 
         static void Main(string[] args)
         {
+            Persona persona_0 = new Persona();
+            string nombre_1 = persona_0.ObtenerNombre();
+            string apellido_1 = persona_0.ObtenerApellidos();
+            int edad_1 = persona_0.ObtenerEdad();
+
+            Persona persona_1 = new Persona(nombre_1, apellido_1, edad_1);
+
+            Persona persona_2 = new Persona();
+            persona_2.nombre = persona_0.ObtenerNombre();
+            persona_2.apellidos = persona_0.ObtenerApellidos();
+            persona_2.edad = persona_0.ObtenerEdad();
+
 
         }
     }
